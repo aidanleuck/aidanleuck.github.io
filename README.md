@@ -7,5 +7,13 @@
 
 ![Aidan's Pic](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/69959242_10206469211925603_7720344374738944000_n.jpg?_nc_cat=111&_nc_ohc=BtIRb_QEjXEAX_MM3qG&_nc_ht=scontent-sea1-1.xx&oh=b55651d22fede84804526eb1f8241fad&oe=5EC6B2EA)
 
+* Aidan
+* Knows
+  * That
+  * The
+  * Picture
+  * Is 
+  * Huge
+
 > Aidan thinks,
 > Coding is cool.
