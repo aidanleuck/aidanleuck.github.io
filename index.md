@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# aidanleuck.github.io
+**Aidan's Repository to showcase all of his programs.**
+*This is a test for CS-HU250* 
+<h6> This is a test for a header 6. </h6> 
 
-You can use the [editor on GitHub](https://github.com/aidanleuck/aidanleuck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**My Github: https://github.com/aidanleuck/aidanleuck.github.io/**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Aidan's Pic](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/69959242_10206469211925603_7720344374738944000_n.jpg?_nc_cat=111&_nc_ohc=BtIRb_QEjXEAX_MM3qG&_nc_ht=scontent-sea1-1.xx&oh=b55651d22fede84804526eb1f8241fad&oe=5EC6B2EA)
 
-### Markdown
+* Aidan
+* Knows
+  * That
+  * The
+  * Picture
+  * Is 
+  * Huge
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidanleuck/aidanleuck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Aidan thinks,
+> Coding is cool.
